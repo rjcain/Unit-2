@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DemocracyBot
+comment0.text=\n\ @author\ \:\ \ D.\ Appel\n
+comment1.params=
+comment1.target=void\ fixBallots()
+comment2.params=
+comment2.target=void\ check3()
+comment3.params=
+comment3.target=void\ checkRooms()
+comment4.params=
+comment4.target=void\ beepRooms()
+comment5.params=
+comment5.target=void\ turnRight()
+comment6.params=
+comment6.target=void\ cleanRooms()
+numComments=7
